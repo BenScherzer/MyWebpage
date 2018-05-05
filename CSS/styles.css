@@ -1,8 +1,13 @@
 body{
-	background: #FFFFFF;
+	background: grey;
 }
 h1{
 	margin-left: auto;
 	text-align: center;
 
+}
+.whiteText{
+	color: white;
+	margin: auto;
+	margin-bottom: 30px;
 }
